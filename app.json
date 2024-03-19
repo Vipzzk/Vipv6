@@ -106,7 +106,9 @@
         },
         "START_MESSAGE": {
             "description": "bot start message text [ {user} = bot startd user name {bot} = your bot name",
-            "value": "<b>✨ Hᴇʟʟᴏ {user}.\n\nMʏ Nᴀᴍᴇ Is {bot}.\n\nI Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ</b>",
+            "value": "<b>✨ടെലഗ്രാം പുഷ്പനു വേണ്ടി ഒരു ഷോഡ പോലും കുടിക്കാതെ പണിയെടുക്കുന്ന ഒരു പാവം ബോട്ട്
+
+Maintained by @vipzzk</b>",
             "required": false
         },       
         "FORCE_SUB_TEXT": {
